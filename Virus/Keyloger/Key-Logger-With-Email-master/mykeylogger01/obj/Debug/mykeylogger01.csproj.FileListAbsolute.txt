@@ -1,0 +1,8 @@
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe.config
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\bin\Debug\mykeylogger01.pdb
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.AssemblyReference.cache
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.csproj.CoreCompileInputs.cache
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\Gibson\Desktop\Key-Logger-With-Email-master\mykeylogger01\obj\Debug\mykeylogger01.pdb
